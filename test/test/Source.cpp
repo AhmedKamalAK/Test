@@ -21,7 +21,7 @@ class print{
 	~print()
 	{
 	}
-}
+};
 int add(int x, int y)
 {
 	return x+y;
