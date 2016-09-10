@@ -13,6 +13,19 @@
 
 using namespace std;
 
+class print{
+	public:
+	print()
+	{
+	}
+	~print()
+	{
+	}
+}
+int add(int x, int y)
+{
+	return x+y;
+}
 int main()
 {
 	cout << "Hello World!" << endl;
